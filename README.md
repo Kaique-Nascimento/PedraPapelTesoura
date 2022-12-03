@@ -5,4 +5,4 @@ Jogo de Pedra, Papel ou Tesoura feito em Python. Exercício #045 aula de Python 
 >- Python
 
 ## Autores
-Gustavo Guanabara (Curso em Vídeo) e algumas alterações por: mim
+Gustavo Guanabara (Curso em Vídeo) e algumas alterações por: mim em 2020
